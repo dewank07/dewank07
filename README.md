@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dewank</h1>
-<h3 align="center">A desinger who finds coding fun</h3>
+<h3 align="center">A designer who finds coding fun</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dewank07&label=Profile%20views&color=0e75b6&style=flat" alt="dewank07" /> </p>
 <p align="left"> <a href="https://twitter.com/rastogidewank" target="blank"><img src="https://img.shields.io/twitter/follow/rastogidewank?logo=twitter&style=for-the-badge" alt="rastogidewank" /></a> </p>
 
 - 🌱 I’m currently learning **Next.Js, Express**
 
-- 👨‍💻 All of my projects are available at [https://dewank.social/](https://dewank.social/)
+- 👨‍💻 All of my projects are available at [dewank.vercel.app](https://dewank.vercel.app)
 
 - 💬 Ask me about **React, Javascript, C++**
 
